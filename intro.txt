@@ -1,1 +1,1 @@
-Estudo da ferramenta GIT
+Estudo básico da ferramenta GIT
